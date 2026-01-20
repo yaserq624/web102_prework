@@ -21,12 +21,14 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of the implemented features:
 
-<img src="walkthrough.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
-[Watch the video walkthrough](PASTE_LOOM_LINK_HERE)
+[Watch the video walkthrough](https://www.loom.com/share/67fd88de4bb94c5b99d47fea0c754c73)
 
-GIF created with Mac screen caputure then using Loom to upload link.
+Video created using Loom.
+
+
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
